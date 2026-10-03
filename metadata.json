@@ -1,0 +1,6 @@
+{
+  "name": "51Talk 天天练智能题库 - Toki English Adventure",
+  "description": "51Talk面向马来西亚学生的智能英语闯关练习与测评题库，集成可爱向导Toki、生动音效与UASA/SPM知识点。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
